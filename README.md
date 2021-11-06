@@ -11,5 +11,7 @@ TypeScript Tutorial to access GitHub user details from their API
 
 To Run:
 
-npm start <username>
+npm start username
+-- replace username with the GitHub user you wish to get the data for.
+
 
