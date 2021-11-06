@@ -15,3 +15,5 @@ npm start username
 -- replace username with the GitHub user you wish to get the data for.
 
 
+With this first version, may need to also run:    
+npm install request lodash process --save -dev
